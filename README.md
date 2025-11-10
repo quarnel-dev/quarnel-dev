@@ -5,7 +5,7 @@
 
 ### Hello! I'm Maxim (aka Quarnel)
 
-I'm 15 years old and I'm a self-taught developer. Over the past year, I've been creating real projects, experimenting with web development, servers, databases, and machine learning.
+I'm 16 years old and I'm a self-taught developer. Over the past year, I've been creating real projects, experimenting with web development, servers, databases, and machine learning.
 
 I like to create things that actually work smoothly, are scalable, and are user-friendly. I like to explore new technologies and solve complex problems.
 
