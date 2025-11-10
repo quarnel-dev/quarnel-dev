@@ -41,5 +41,7 @@ I specialize in full-stack web development, desktop applications, server infrast
 ## <span style="color: coral;">Stats</span>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=quarnel-dev&show_icons=true&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quarnel-dev&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quarnel-dev&layout=compact)
