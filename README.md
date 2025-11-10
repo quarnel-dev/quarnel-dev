@@ -25,6 +25,7 @@ I specialize in full-stack web development, desktop applications, server infrast
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-black?style=for-the-badge&logo=svelte)
 ![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron)
 ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
